@@ -14,9 +14,3 @@
 
 soong_namespace {
 }
-
-dex_import {
-    name: "WfdCommon",
-    owner: "htc",
-    jars: ["proprietary/framework/WfdCommon.jar"],
-}
